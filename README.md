@@ -1,4 +1,6 @@
 # Time-Table.github.io
+Link of my project - https://imaadiiii.github.io/Time-Table.github.io/
+
 In This Project I created my 4th sem timetable using HTML.
 Link of my project - https://imaadiiii.github.io/Time-Table.github.io/
 
