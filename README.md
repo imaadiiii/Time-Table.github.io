@@ -2,7 +2,7 @@
 Link of my project - https://imaadiiii.github.io/Time-Table.github.io/
 
 In This Project I created my 4th sem timetable using HTML.
-Link of my project - https://imaadiiii.github.io/Time-Table.github.io/
+
 
 ![IMG_9887](https://github.com/imaadiiii/Time-Table.github.io/assets/98867229/65215524-b148-446a-9f9b-2638a8a0c9e3)
 
